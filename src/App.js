@@ -9,6 +9,7 @@ import Contact from "./Contact";
 const App = () => {
   return (
     <>
+    
       <Navbar />
       <Header />
       <HowItWorks />
