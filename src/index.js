@@ -6,7 +6,7 @@ import Card from './Card';
 
 ReactDOM.render(
 
-    <Card val="this is the new  card " />,
+    <Card val="this is the new again updated card " />,
    document.getElementById('root')
 );
 
